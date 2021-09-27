@@ -20,6 +20,8 @@ namespace Formatting_3
          arg0: ittialDouble,
          arg1: valueString17,
          arg2: ittialDouble.Equals(reversInittialDouble17));
+         Console.WriteLine($"New one");
+         
          
 
       }
