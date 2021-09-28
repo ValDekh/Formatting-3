@@ -21,8 +21,6 @@ namespace Formatting_3
          arg1: valueString17,
          arg2: ittialDouble.Equals(reversInittialDouble17));
          Console.WriteLine($"New one");
-         Console.WriteLine($"New one branch");
-         
          
          
 
